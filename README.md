@@ -71,10 +71,14 @@ optional arguments:
 
 ### Citation   
 ```
-@article{JohanBengtsson2022,
-  title={Quality Measurement of Generative Dialogue Models for Language Practice},
-  author={Johan Bengtsson},
-  year={2022}
+@misc{9091177,
+  author       = {{Bengtsson, Johan}},
+  issn         = {{1650-2884}},
+  language     = {{eng}},
+  note         = {{Student Paper}},
+  series       = {{LU-CS-EX}},
+  title        = {{Quality Measurement of Generative Dialogue Models for Language Practice}},
+  year         = {{2022}},
 }
 ```   
 
